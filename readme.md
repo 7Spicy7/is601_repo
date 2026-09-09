@@ -52,3 +52,5 @@ Lists out the contents of a text file, and by certain parameters, if established
 Creates an empty text file with the specified name.
 [chmod]
 Changes the permissions on a file, depending on what is put for each of the three fields, for the Owner (the first digit), the Group (the second digit), and Others (the third digit).
+[tail]
+Lists out the bottommost lines of a specified file. By default, it's 10 lines, though more can be specified with -n.
