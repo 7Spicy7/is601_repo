@@ -10,3 +10,5 @@ Will merge the specified branch's history with your current branch's.
 Starts up a Git repository within an existing directory.
 |git add|
 Adds a file as-is to your next commit. If a period is put in, adds every file within the branch.
+|git commit -m|
+After adding a message behind the -m using quotation marks, commits content that was added, and includes the message.
