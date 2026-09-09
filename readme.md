@@ -56,3 +56,5 @@ Changes the permissions on a file, depending on what is put for each of the thre
 Lists out the bottommost lines of a specified file. By default, it's 10 lines, though more can be specified with -n.
 [head]
 Lists out the topmost lines of a specified file. By default, it's 10 lines, though more can be specified with -n.
+[wc]
+When given a file, lists out the line count, word count, byte count, and filename, in that order. If given multiple files, will output them all in rows, and have an extra row for the total.
