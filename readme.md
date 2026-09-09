@@ -20,6 +20,8 @@ Retrieves an entire repository from the URL given.
 Deletes the specified file, and sets that deletion for the next commit.
 |git pull|
 Merges the remote branch and its commits into the working local branch.
+|git stash|
+Saves the current staged changes in a 'special stack'. Adding "list" to it will list out the stack of what's stashed, adding "pop" will re-add the topmost (last-added) stash to the commit, and adding "drop" will delete the topmost stash.
 {i}
 Allows you to edit a file by typing into it. The [Esc] button reverts you to command mode.
 {:wq}
