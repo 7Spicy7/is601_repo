@@ -28,3 +28,5 @@ Undoes the last change.
 Undoes every change on a line, resetting it to its last save.
 [cd]
 Changes directory in a terminal.
+[mv]
+Either moves a file into a folder named, or renames a file if no folder with that name exists.
