@@ -32,3 +32,5 @@ Changes directory in a terminal.
 Either moves a file into a folder named, or renames a file if no folder with that name exists.
 [mkdir]
 Creates a new directory with the name given.
+[pwd]
+Prints Working Directory onto your terminal.
