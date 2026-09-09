@@ -18,8 +18,6 @@ Sends local commits to a remote repository branch (denoted first, so "git push r
 Retrieves an entire repository from the URL given.
 |git rm|
 Deletes the specified file, and sets that deletion for the next commit.
-|git more|
-Lists out the contents of a text file, and by certain parameters, if established.
 |git pull|
 Merges the remote branch and its commits into the working local branch.
 {i}
@@ -46,3 +44,7 @@ Prints Working Directory onto your terminal.
 Lists out files and folders.
 [rm]
 Deletes the specified file. Unlike the git variant, is instant and not tied to being commited.
+[more]
+Lists out the contents of a text file, and by certain parameters, if established.
+[touch]
+Creates an empty text file with the specified name.
