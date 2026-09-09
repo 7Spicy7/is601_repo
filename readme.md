@@ -40,3 +40,5 @@ Creates a new directory with the name given.
 Prints Working Directory onto your terminal.
 [ls]
 Lists out files and folders.
+[rm]
+Deletes the specified file. Unlike the git variant, is instant and not tied to being commited.
