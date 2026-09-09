@@ -18,3 +18,5 @@ Sends local commits to a remote repository branch (denoted first, so "git push r
 Allows you to edit a file by typing into it. The [Esc] button reverts you to command mode.
 {vi :wq}
 Saves any and all changes made to a file, then quits out of the file.
+{vi :q}
+Quits out of the file. Will give a warning if any changes have been made to it prior.
