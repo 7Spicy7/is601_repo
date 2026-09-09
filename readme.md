@@ -12,3 +12,5 @@ Starts up a Git repository within an existing directory.
 Adds a file as-is to your next commit. If a period is put in, adds every file within the branch.
 |git commit -m|
 After adding a message behind the -m using quotation marks, commits content that was added, and includes the message.
+|git push|
+Sends local commits to a remote repository branch (denoted first, so "git push remote local")
