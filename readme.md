@@ -16,6 +16,8 @@ After adding a message behind the -m using quotation marks, commits content that
 Sends local commits to a remote repository branch (denoted first, so "git push remote local")
 |git clone|
 Retrieves an entire repository from the URL given.
+|git rm|
+Deletes the specified file, and sets that deletion for the next commit.
 {i}
 Allows you to edit a file by typing into it. The [Esc] button reverts you to command mode.
 {:wq}
