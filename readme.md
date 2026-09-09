@@ -24,3 +24,5 @@ Quits out of the file. Will give a warning if any changes have been made to it p
 Quits out of the file without saving.
 {u}
 Undoes the last change.
+{U}
+Undoes every change on a line, resetting it to its last save.
