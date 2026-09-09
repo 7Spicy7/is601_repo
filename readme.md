@@ -14,11 +14,13 @@ Adds a file as-is to your next commit. If a period is put in, adds every file wi
 After adding a message behind the -m using quotation marks, commits content that was added, and includes the message.
 |git push|
 Sends local commits to a remote repository branch (denoted first, so "git push remote local")
-{vi i}
+{i}
 Allows you to edit a file by typing into it. The [Esc] button reverts you to command mode.
-{vi :wq}
+{:wq}
 Saves any and all changes made to a file, then quits out of the file.
-{vi :q}
+{:q}
 Quits out of the file. Will give a warning if any changes have been made to it prior.
-{vi :q!}
+{:q!}
 Quits out of the file without saving.
+{u}
+Undoes the last change.
