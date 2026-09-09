@@ -26,3 +26,5 @@ Quits out of the file without saving.
 Undoes the last change.
 {U}
 Undoes every change on a line, resetting it to its last save.
+[cd]
+Changes directory in a terminal.
