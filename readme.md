@@ -34,3 +34,5 @@ Either moves a file into a folder named, or renames a file if no folder with tha
 Creates a new directory with the name given.
 [pwd]
 Prints Working Directory onto your terminal.
+[ls]
+Lists out files and folders.
