@@ -8,3 +8,5 @@ Will show the commit history of the branch you're on.
 Will merge the specified branch's history with your current branch's.
 |git init|
 Starts up a Git repository within an existing directory.
+|git add|
+Adds a file as-is to your next commit. If a period is put in, adds every file within the branch.
