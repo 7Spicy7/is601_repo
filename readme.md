@@ -50,3 +50,5 @@ Deletes the specified file. Unlike the git variant, is instant and not tied to b
 Lists out the contents of a text file, and by certain parameters, if established.
 [touch]
 Creates an empty text file with the specified name.
+[chmod]
+Changes the permissions on a file, depending on what is put for each of the three fields, for the Owner (the first digit), the Group (the second digit), and Others (the third digit).
