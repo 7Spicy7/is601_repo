@@ -18,6 +18,8 @@ Sends local commits to a remote repository branch (denoted first, so "git push r
 Retrieves an entire repository from the URL given.
 |git rm|
 Deletes the specified file, and sets that deletion for the next commit.
+|git more|
+Lists out the contents of a text file, and by certain parameters, if established.
 {i}
 Allows you to edit a file by typing into it. The [Esc] button reverts you to command mode.
 {:wq}
