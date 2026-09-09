@@ -16,3 +16,5 @@ After adding a message behind the -m using quotation marks, commits content that
 Sends local commits to a remote repository branch (denoted first, so "git push remote local")
 {vi i}
 Allows you to edit a file by typing into it. The [Esc] button reverts you to command mode.
+{vi :wq}
+Saves any and all changes made to a file, then quits out of the file.
